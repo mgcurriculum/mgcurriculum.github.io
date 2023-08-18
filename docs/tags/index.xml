@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on MakerGhat Curriculum</title>
+    <link>https://mgcurriculum.github.io/tags/</link>
+    <description>Recent content in Tags on MakerGhat Curriculum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MakerGhat ©</copyright>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mgcurriculum.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Thinking</title>
+      <link>https://mgcurriculum.github.io/tags/design-thinking/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgcurriculum.github.io/tags/design-thinking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grade10</title>
+      <link>https://mgcurriculum.github.io/tags/grade10/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgcurriculum.github.io/tags/grade10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>grade9</title>
+      <link>https://mgcurriculum.github.io/tags/grade9/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgcurriculum.github.io/tags/grade9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STEM</title>
+      <link>https://mgcurriculum.github.io/tags/stem/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgcurriculum.github.io/tags/stem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

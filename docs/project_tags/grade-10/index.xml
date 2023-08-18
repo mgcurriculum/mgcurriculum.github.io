@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grade 10 on MakerGhat Curriculum</title>
+    <link>https://mgcurriculum.github.io/project_tags/grade-10/</link>
+    <description>Recent content in Grade 10 on MakerGhat Curriculum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MakerGhat ©</copyright>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mgcurriculum.github.io/project_tags/grade-10/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design an Ideal Wallet</title>
+      <link>https://mgcurriculum.github.io/projects/project1/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgcurriculum.github.io/projects/project1/</guid>
+      <description>Design Thinking Activity</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Aerodynamics</title>
+      <link>https://mgcurriculum.github.io/projects/project1-copy-2/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgcurriculum.github.io/projects/project1-copy-2/</guid>
+      <description>Build Your Own Parachute</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Aerodynamics</title>
+      <link>https://mgcurriculum.github.io/projects/project1-copy-3/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgcurriculum.github.io/projects/project1-copy-3/</guid>
+      <description>Build Your Own Parachute</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Aerodynamics</title>
+      <link>https://mgcurriculum.github.io/projects/project1-copy/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgcurriculum.github.io/projects/project1-copy/</guid>
+      <description>Build Your Own Parachute</description>
+    </item>
+    
+  </channel>
+</rss>
